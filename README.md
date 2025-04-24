@@ -54,7 +54,7 @@ This project is a Node.js + GraphQL + MongoDB backend application for managing c
 
 ```bash
 git clone https://github.com/shak612/delightree-assignment.git
-cd Delightree_Assignment
+cd delightree-assignment
 npm install --legacy-peer-deps
 ```
 
