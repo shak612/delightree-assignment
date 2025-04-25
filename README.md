@@ -2,7 +2,7 @@
 
 This project is a Node.js + GraphQL + MongoDB backend application for managing customers, products, and orders. It includes:
 
-- GraphQL API with Express & Apollo
+- GraphQL API with Express & Express-GraphQL
 - CSV Import utility for initial data
 - UUID-based unique IDs
 - Example queries for testing
@@ -13,7 +13,7 @@ This project is a Node.js + GraphQL + MongoDB backend application for managing c
 
 - Node.js
 - Express
-- Apollo Server (GraphQL)
+- Express-GraphQL
 - MongoDB (via Mongoose)
 - CSV Parser
 - UUID
